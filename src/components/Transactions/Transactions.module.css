@@ -1,0 +1,27 @@
+.container {
+    background-color: rgb(198, 240, 231);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.transactionHistory {
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.head {
+    background-color: rgb(79, 236, 236);
+   height: 32px;
+}
+.rowText {
+   height: 32px;
+   text-align: center;
+   border-bottom: 1px solid black;
+}
+.headText {
+    font-size: 20px;
+    text-align: center;
+    color: aliceblue;
+    text-transform: uppercase;
+    
+}
